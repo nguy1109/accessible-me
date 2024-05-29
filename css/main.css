@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: grey;
+  background-color: rgb(235, 232, 232);
   margin: 0;
   padding: 0;
 }
@@ -39,7 +39,7 @@ img {
 
 .main-nav ul li a {
   display: block;
-  color: inherit;
+  color: #ff0026;
   text-decoration: none;
   font-size: 1.25rem;
 }
